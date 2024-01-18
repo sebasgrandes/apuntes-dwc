@@ -2,7 +2,7 @@
 
 Los proyectos que realicé de la parte práctica del curso los encuentras [aquí](https://github.com/sebasgrandes/projects-js-modern/).
 
-|  #  |                                      Proyectos (Links de las carpetas del repositorio)                                      |
+|  #  |                                       Apuntes (Links de las carpetas del repositorio)                                       |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------: |
 | 01  |   [Introducción a JavaScript](https://github.com/sebasgrandes/apuntes-dwc/tree/main/apuntes/01-intro-javascript-dwc-main)   |
 | 02  | [DOM y Eventos en JavaScript](https://github.com/sebasgrandes/apuntes-dwc/tree/main/apuntes/02-dom-eventos-javascript-main) |
