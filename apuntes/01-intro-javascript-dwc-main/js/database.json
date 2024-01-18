@@ -1,0 +1,22 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Sebastian Grandes",
+            "puesto": "practicante de Ingeniería Ambiental",
+            "edad": 22
+        },
+        {
+            "id": 2,
+            "nombre": "Andrea Lino",
+            "puesto": "estudiante de Ingeniería Industrial",
+            "edad": 22
+        },
+        {
+            "id": 3,
+            "nombre": "Esteban Grandes Lino",
+            "puesto": "estudiante de primaria",
+            "edad": 6
+        }
+    ]
+}
